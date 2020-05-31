@@ -7,6 +7,7 @@ print("hello from Salih")
 print("ibrahim tuncel was here")
 
 print("Hello from henry")
+print("Today very good")
 
 print("Hi! This is Sergio Taco")
 print("Clarusway is great!")
